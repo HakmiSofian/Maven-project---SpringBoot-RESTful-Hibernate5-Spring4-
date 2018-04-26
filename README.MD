@@ -1,3 +1,5 @@
+This is an exercise I did for a IT consulting company.
+
 # Instructions
 
 ## SQL
